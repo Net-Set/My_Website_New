@@ -1,0 +1,81 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 01 Sep 2022 00:14:23 at https://lmpixels.com/wp/leven-wp/dark/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://lmpixels.com/wp/leven-wp/dark/ -O1 "C:\My Web Sites\alex smith 2" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+00:14:23	Warning: 	Found for https://lmpixels.com/robots.txt
+00:14:23	Warning: 	File has moved from https://lmpixels.com/robots.txt to https://lmpixels.com/404.shtml
+00:15:37	Warning: 	Moved Permanently for https://lmpixels.com/wp/leven-wp/dark/?p=164
+00:15:37	Warning: 	File has moved from https://lmpixels.com/wp/leven-wp/dark/?p=164 to https://lmpixels.com/wp/leven-wp/dark/home-2-about-me/
+00:15:37	Warning: 	Moved Permanently for https://lmpixels.com/wp/leven-wp/dark/?p=310
+00:15:37	Warning: 	File has moved from https://lmpixels.com/wp/leven-wp/dark/?p=310 to https://lmpixels.com/wp/leven-wp/dark/about-me-3/
+00:15:38	Warning: 	Moved Permanently for https://lmpixels.com/wp/leven-wp/dark/?p=319
+00:15:38	Warning: 	File has moved from https://lmpixels.com/wp/leven-wp/dark/?p=319 to https://lmpixels.com/wp/leven-wp/dark/about-me-4/
+00:15:38	Warning: 	Moved Permanently for https://lmpixels.com/wp/leven-wp/dark/?p=323
+00:15:38	Warning: 	File has moved from https://lmpixels.com/wp/leven-wp/dark/?p=323 to https://lmpixels.com/wp/leven-wp/dark/about-me-5/
+00:15:38	Warning: 	Moved Permanently for https://lmpixels.com/wp/leven-wp/dark/?p=326
+00:15:38	Warning: 	File has moved from https://lmpixels.com/wp/leven-wp/dark/?p=326 to https://lmpixels.com/wp/leven-wp/dark/about-me-6/
+00:15:38	Warning: 	Moved Permanently for https://lmpixels.com/wp/leven-wp/dark/?p=8
+00:15:38	Warning: 	File has moved from https://lmpixels.com/wp/leven-wp/dark/?p=8 to https://lmpixels.com/wp/leven-wp/dark/home/
+00:15:38	Warning: 	Moved Permanently for https://lmpixels.com/wp/leven-wp/dark/?p=15
+00:15:38	Warning: 	File has moved from https://lmpixels.com/wp/leven-wp/dark/?p=15 to https://lmpixels.com/wp/leven-wp/dark/home-2/
+00:15:39	Warning: 	Moved Permanently for https://lmpixels.com/wp/leven-wp/dark/?p=171
+00:15:39	Warning: 	File has moved from https://lmpixels.com/wp/leven-wp/dark/?p=171 to https://lmpixels.com/wp/leven-wp/dark/resume/
+00:15:39	Warning: 	Moved Permanently for https://lmpixels.com/wp/leven-wp/dark/?p=25
+00:15:39	Warning: 	File has moved from https://lmpixels.com/wp/leven-wp/dark/?p=25 to https://lmpixels.com/wp/leven-wp/dark/portfolio/
+00:15:55	Warning: 	Moved Permanently for https://lmpixels.com/wp/leven-wp/dark/?p=30
+00:15:55	Warning: 	File has moved from https://lmpixels.com/wp/leven-wp/dark/?p=30 to https://lmpixels.com/wp/leven-wp/dark/portfolio-2-columns/
+00:15:55	Warning: 	Moved Permanently for https://lmpixels.com/wp/leven-wp/dark/?p=34
+00:15:55	Warning: 	File has moved from https://lmpixels.com/wp/leven-wp/dark/?p=34 to https://lmpixels.com/wp/leven-wp/dark/portfolio-4-columns/
+00:15:55	Warning: 	Moved Permanently for https://lmpixels.com/wp/leven-wp/dark/?p=37
+00:15:55	Warning: 	File has moved from https://lmpixels.com/wp/leven-wp/dark/?p=37 to https://lmpixels.com/wp/leven-wp/dark/portfolio-5-columns/
+00:15:55	Warning: 	Moved Permanently for https://lmpixels.com/wp/leven-wp/dark/?p=83
+00:15:55	Warning: 	File has moved from https://lmpixels.com/wp/leven-wp/dark/?p=83 to https://lmpixels.com/wp/leven-wp/dark/blog-2-columns/
+00:15:56	Warning: 	Moved Permanently for https://lmpixels.com/wp/leven-wp/dark/?p=86
+00:15:56	Warning: 	File has moved from https://lmpixels.com/wp/leven-wp/dark/?p=86 to https://lmpixels.com/wp/leven-wp/dark/blog-3-columns/
+00:16:10	Warning: 	Moved Permanently for https://lmpixels.com/wp/leven-wp/dark/?p=187
+00:16:10	Warning: 	File has moved from https://lmpixels.com/wp/leven-wp/dark/?p=187 to https://lmpixels.com/wp/leven-wp/dark/contact/
+00:16:11	Warning: 	Moved Permanently for https://lmpixels.com/wp/leven-wp/dark/?p=334
+00:16:11	Warning: 	File has moved from https://lmpixels.com/wp/leven-wp/dark/?p=334 to https://lmpixels.com/wp/leven-wp/dark/extra/
+00:16:11	Warning: 	Moved Permanently for https://lmpixels.com/wp/leven-wp/dark/?p=139
+00:16:11	Warning: 	File has moved from https://lmpixels.com/wp/leven-wp/dark/?p=139 to https://lmpixels.com/wp/leven-wp/dark/2019/12/04/how-to-make-a-wordpress-plugin-extensible/
+00:16:11	Error: 	"Method Not Allowed" (405) at link https://lmpixels.com/wp/leven-wp/dark/xmlrpc.php (from https://lmpixels.com/wp/leven-wp/dark/2019/12/04/how-to-make-a-wordpress-plugin-extensible/)
+00:16:11	Warning: 	Moved Permanently for https://lmpixels.com/wp/leven-wp/dark/?p=136
+00:16:11	Warning: 	File has moved from https://lmpixels.com/wp/leven-wp/dark/?p=136 to https://lmpixels.com/wp/leven-wp/dark/2019/12/04/6-easy-steps-to-better-icon-design/
+00:16:11	Warning: 	Moved Permanently for https://lmpixels.com/wp/leven-wp/dark/?p=133
+00:16:11	Warning: 	File has moved from https://lmpixels.com/wp/leven-wp/dark/?p=133 to https://lmpixels.com/wp/leven-wp/dark/2019/12/04/creative-and-innovative-navigation-designs/
+00:16:11	Warning: 	Moved Permanently for https://lmpixels.com/wp/leven-wp/dark/?p=123
+00:16:11	Warning: 	File has moved from https://lmpixels.com/wp/leven-wp/dark/?p=123 to https://lmpixels.com/wp/leven-wp/dark/2019/12/04/why-i-switched-to-sketch-for-ui-design/
+00:16:11	Warning: 	Moved Permanently for https://lmpixels.com/wp/leven-wp/dark/?p=120
+00:16:11	Warning: 	File has moved from https://lmpixels.com/wp/leven-wp/dark/?p=120 to https://lmpixels.com/wp/leven-wp/dark/2019/12/04/an-overview-of-e-commerce-platforms/
+00:16:13	Warning: 	Moved Permanently for https://lmpixels.com/wp/leven-wp/dark/?p=73
+00:16:13	Warning: 	File has moved from https://lmpixels.com/wp/leven-wp/dark/?p=73 to https://lmpixels.com/wp/leven-wp/dark/project/full-project-2/
+00:16:14	Warning: 	Moved Permanently for https://lmpixels.com/wp/leven-wp/dark/?p=43
+00:16:14	Warning: 	File has moved from https://lmpixels.com/wp/leven-wp/dark/?p=43 to https://lmpixels.com/wp/leven-wp/dark/project/full-project-1/
+00:16:17	Warning: 	Moved Permanently for https://lmpixels.com/wp/leven-wp/dark/?p=114
+00:16:17	Warning: 	File has moved from https://lmpixels.com/wp/leven-wp/dark/?p=114 to https://lmpixels.com/wp/leven-wp/dark/2019/12/04/designing-the-perfect-feature-comparison-table/
+00:16:17	Error: 	"Not Found" (404) at link https://lmpixels.com/wp/leven-wp/dark/wp-json/wp/v2/users/1 (from https://lmpixels.com/wp/leven-wp/dark/author/lmpixels/)
+00:16:17	Warning: 	Moved Permanently for https://lmpixels.com/wp/leven-wp/dark/?p=96
+00:16:17	Warning: 	File has moved from https://lmpixels.com/wp/leven-wp/dark/?p=96 to https://lmpixels.com/wp/leven-wp/dark/2019/12/04/best-practices-for-animated-progress-indicators/
+00:16:17	Warning: 	Moved Permanently for https://lmpixels.com/wp/leven-wp/dark/?p=1
+00:16:17	Warning: 	File has moved from https://lmpixels.com/wp/leven-wp/dark/?p=1 to https://lmpixels.com/wp/leven-wp/dark/2019/11/28/hello-world/
+00:16:17	Warning: 	Moved Permanently for https://lmpixels.com/wp/leven-wp/dark/?p=79
+00:16:17	Warning: 	File has moved from https://lmpixels.com/wp/leven-wp/dark/?p=79 to https://lmpixels.com/wp/leven-wp/dark/project/youtube-video-2/
+00:16:18	Warning: 	Moved Permanently for https://lmpixels.com/wp/leven-wp/dark/?p=71
+00:16:18	Warning: 	File has moved from https://lmpixels.com/wp/leven-wp/dark/?p=71 to https://lmpixels.com/wp/leven-wp/dark/project/direct-url/
+00:16:19	Warning: 	Moved Permanently for https://lmpixels.com/wp/leven-wp/dark/?p=63
+00:16:19	Warning: 	File has moved from https://lmpixels.com/wp/leven-wp/dark/?p=63 to https://lmpixels.com/wp/leven-wp/dark/project/youtube-video-1/
+00:16:21	Warning: 	Moved Permanently for https://lmpixels.com/wp/leven-wp/dark/?p=81
+00:16:21	Warning: 	File has moved from https://lmpixels.com/wp/leven-wp/dark/?p=81 to https://lmpixels.com/wp/leven-wp/dark/project/image-2/
+00:16:22	Warning: 	Moved Permanently for https://lmpixels.com/wp/leven-wp/dark/?p=69
+00:16:22	Warning: 	File has moved from https://lmpixels.com/wp/leven-wp/dark/?p=69 to https://lmpixels.com/wp/leven-wp/dark/project/image-1/
+00:16:22	Warning: 	Moved Permanently for https://lmpixels.com/wp/leven-wp/dark/?p=65
+00:16:22	Warning: 	File has moved from https://lmpixels.com/wp/leven-wp/dark/?p=65 to https://lmpixels.com/wp/leven-wp/dark/project/vimeo-video/
+00:16:22	Warning: 	Moved Permanently for https://lmpixels.com/wp/leven-wp/dark/?p=67
+00:16:22	Warning: 	File has moved from https://lmpixels.com/wp/leven-wp/dark/?p=67 to https://lmpixels.com/wp/leven-wp/dark/project/soundcloud-audio-1/
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 59 seconds : 344 links scanned, 308 files written (17293003 bytes overall) [8263521 bytes received at 69441 bytes/sec], 13189235 bytes transferred using HTTP compression in 265 files, ratio 28%, 34.6 requests per connection
+(2 errors, 68 warnings, 0 messages)
